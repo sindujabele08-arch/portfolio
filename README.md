@@ -1,8 +1,6 @@
 # Sinduja Bele — Portfolio
 
-My personal portfolio website built with HTML and CSS.
-
-🌐 Live site: https://sindujabele.github.io
+My personal portfolio website built with HTML and CS
 
 ## About
 This portfolio showcases my skills, projects, and education as a
